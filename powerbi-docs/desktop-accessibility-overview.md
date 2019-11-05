@@ -26,14 +26,16 @@ Universal design is the design of products that are usable by as many people as 
 
 ## Accessibility standards
 
-Power BI is compliant to the following accessibility standards.  This helps ensure that your Power BI experiences are accessible to as many people as possible.
+Power BI is committed to the following accessibility standards.  This helps ensure that your Power BI experiences are accessible to as many people as possible.
 
 ### WCAG 2.1
-Power BI adheres to Web Content Accessibility (WCAG) 2.1 guidelines. There are three primary principles of WCAG:
+There are three primary principles of WCAG:
 
 1. **Perceivable** - Information and user interface components must be presentable to users in ways they can perceive.
 2. **Operable** - User interface components and navigation must be operable.
 3. **Understandable** - Information and the operation of user interface must be understandable.
+
+WCAG helps make web content more accessible to people with disabilities.
 
 ### US Section 508
 
